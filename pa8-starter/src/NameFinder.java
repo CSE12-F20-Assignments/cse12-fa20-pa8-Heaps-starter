@@ -17,6 +17,6 @@ public class NameFinder {
 
       // TODO: add each data point to the heap using the buffer if matching desired 'gender'
       
-      // TODO: write the heap to the file or print contents of heap to the console depnding on 'write_to_file'
+      // TODO: write the heap to the file or print contents of heap to the console depending on 'write_to_file'
    }
 }
