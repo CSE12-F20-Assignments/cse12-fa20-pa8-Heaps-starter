@@ -216,6 +216,7 @@ On the Gradescope assignment **Programming Assignment 8 - code** please submit t
 * NameFinder.java
 * Heap.java
 * HeapTest.java
+* PriorityQueue.java
 
 The easiest way to submit your files is to drag them individually into the submit box and upload that to Gradescope. You may submit as many times as you like till the deadline. 
  
