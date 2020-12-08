@@ -174,14 +174,23 @@ Here are two examples of the command needed to run this program:
 For printing the names to the console, you must print the first K names with the following format for each line: "name: frequency". We've included an example below for what this should look like.
 
 *Erics-MacBook-Pro-7:src*$ java NameFinder small_names_subset.csv false female max 100
+
 Yamilet: 2234
+
 Jailene: 860
+
 Fatoumata: 826
+
 Adrina: 388
+
 Addalyn: 257
+
 Landrie: 249
+
 Charla: 213
+
 Trinnity: 116
+
 *Erics-MacBook-Pro-7:src*$
 
 For outputting to a file, the first line should be the size of the heap. The following lines should represent the structure of the heap i.e. you should output the contents of the list holding the entries in the order that they are in the list. The format should also be "name: frequency" for each of these lines. For reference we've included refOutput.txt which is an example of how the output file should be formatted. refOutput.txt was generated with the following command:
